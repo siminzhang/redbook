@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/redbook.iml" filepath="$PROJECT_DIR$/.idea/redbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redbook/redbook.iml" filepath="$PROJECT_DIR$/redbook/redbook.iml" />
     </modules>
   </component>
 </project>
