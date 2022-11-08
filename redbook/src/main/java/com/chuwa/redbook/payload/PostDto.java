@@ -1,10 +1,14 @@
 package com.chuwa.redbook.payload;
 
+import java.util.Set;
+
 public class PostDto {
     private Long id;
     private String title;
     private String description;
     private String content;
+
+    private Set<CommentDto> comments;
 
 
     public PostDto() {
